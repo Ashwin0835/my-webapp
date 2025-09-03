@@ -26,5 +26,7 @@ script.js → Functionality and interactivity
 🎯 What this project will do
 
 Help beginners learn how HTML, CSS, and JavaScript work together.
+🌐 Live Demo
+👉 Click here to view the project:
 
 Demonstrate how to make a web page interactive.
