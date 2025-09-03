@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+button {
+  margin: 2px;
+  padding: 5px;
+  border: red;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addBtn {
+  background-color: green;
+  color: white;
+}
+
+.editBtn {
+  background-color: orange;
+  color: white;
+}
+
+.deleteBtn {
+  background-color: red;
+  color: white;
+}
+
+.saveBtn {
+  background-color: blue;
+  color: white;
+}
